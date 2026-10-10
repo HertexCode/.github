@@ -1,7 +1,4 @@
-
-# HertexCode | Desarrollo Web Full-Stack y Soluciones a Medida
-
-> Somos un espacio de desarrollo colaborativo enfocado en la creación de aplicaciones web escalables, sistemas de gestión de contenido (CMS) y arquitecturas backend robustas. Nuestro objetivo es **transformar requerimientos complejos en productos digitales de alto rendimiento**.
+Este es un espacio de desarrollo colaborativo enfocado en la creación de aplicaciones web escalables, sistemas de gestión de contenido (CMS) y arquitecturas backend robustas. Nuestro objetivo es **transformar requerimientos complejos en productos digitales de alto rendimiento**.
 
 ---
 
